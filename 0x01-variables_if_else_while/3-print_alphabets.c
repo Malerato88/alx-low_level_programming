@@ -12,8 +12,8 @@ int main(void)
 	int y;
 
 	x = 'a';
-	y = 'A'
-		while
+	y = 'A';
+	while
 			(x <= 'z') {
 				putchar(x);
 				x++;
