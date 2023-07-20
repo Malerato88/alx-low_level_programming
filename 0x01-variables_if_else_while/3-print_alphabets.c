@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 /**
  * main - Entry point
  * Return: 0 (Success)
@@ -6,9 +7,9 @@
 
 int main(void)
 {
-	char x;
+	int x;
 
-	char y;
+	int y;
 
 	x = 'a';
 	y = 'A'
