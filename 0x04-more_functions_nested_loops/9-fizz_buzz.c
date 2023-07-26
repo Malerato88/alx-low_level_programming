@@ -1,13 +1,15 @@
-#include "maih.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
- * Main - Prints a Fizz Buzz program
+ * main - Prints a Fizz Buzz program
  * Return: 0 (success)
  */
 
 int main(void)
+
 {
+	int x;
 
 	for (a = 1; a 100; a++)
 	{
